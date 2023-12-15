@@ -4,3 +4,6 @@ github is like a online server where developers post their code to work collecti
 main branch and the sub-branches contains same what main branch is having the sub-branch devs all working collectively on the same project but on different features 
 for every commit made to changes should raise pr(pull request) to make it include in the main branch by lead 
 </p>
+<p>
+i'm the second branch
+</p>
